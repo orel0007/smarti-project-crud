@@ -20,10 +20,10 @@ name, category, price,  description, is_in_stock using laravel api as server and
          Laravl, Composer, angular V16, Xmapp(not neccessary but help see the database visually),
 ##### Run instructions
 - Go  master branch and  download laravel-api-backend folder and crud-front, open terminal in both folders
-- In laravel-api-backend termianl insert coomand:
+- In laravel-api-backend terminal insert coomand:
 - ####
         php artisan serve
-- In crud-front termianl insert coomand:
+- In crud-front terminal insert coomand:
      ####
         ng serve
 - Go to browser and insert the url:
