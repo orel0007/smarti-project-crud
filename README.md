@@ -1,4 +1,5 @@
 # Crud application - Smarti Project
+![Laravel Logo](https://example.com/laravel-logo.png)
 
 ## Authors
 Orel Aviad
