@@ -1,5 +1,5 @@
 # Crud application - Smarti Project
-![Laravel Logo](https://example.com/laravel-logo.png)
+![Laravel Logo]([https://example.com/laravel-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhy-choose-laravel-framework-develop-high-performing-web-mitul-patel&psig=AOvVaw05X2N1A7xh1pYvuOcIEf5s&ust=1701702376283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICbwr3F84IDFQAAAAAdAAAAABAE))
 
 ## Authors
 Orel Aviad
