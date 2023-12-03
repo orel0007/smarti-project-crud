@@ -26,6 +26,8 @@ name, category, price,  description, is_in_stock using laravel api as server and
 - In crud-front termianl insert coomand:
      ####
         ng serve
-- On website insert "http://localhost:4200/" url
+- Go to browser and insert the url:
+- ####
+        http://localhost:4200/ 
 - You can see all products list on the server, add new products, update and delete
 
