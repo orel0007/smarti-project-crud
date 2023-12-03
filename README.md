@@ -20,7 +20,7 @@ install Laravl,Composer,Xmapp(not neccessary but help see the database visually)
 ##### Run instructions
 - Go  master branch and  download laravel-api-backend folder and crud-front, open terminal in both folders
 - In laravel-api-backend termianl insert coomand: "php artisan serve"
-- crud-front termianl insert coomand: "ng serve"
--Go the internet and insert "http://localhost:4200/" url
--  You can see all products list on the server, add new products, update and delete
+- In crud-front termianl insert coomand: "ng serve"
+- On website insert "http://localhost:4200/" url
+- You can see all products list on the server, add new products, update and delete
 
