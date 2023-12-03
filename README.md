@@ -15,8 +15,9 @@ name, category, price,  description, is_in_stock using laravel api as server and
    #### DataBase:
          MySql
 
-#### Installss
-install Laravl,Composer,Xmapp(not neccessary but help see the database visually), angular V16, 
+### Install:
+   #### :
+         Laravl,Composer,Xmapp(not neccessary but help see the database visually), angular V16, 
 ##### Run instructions
 - Go  master branch and  download laravel-api-backend folder and crud-front, open terminal in both folders
 - In laravel-api-backend termianl insert coomand: "php artisan serve"
